@@ -1,0 +1,8 @@
+body{
+    background-color: #d1d0d0;
+}
+#wrapper{
+    margin: 200px auto;
+    border: 1px solid gray;
+    background-color: #fff;
+}
