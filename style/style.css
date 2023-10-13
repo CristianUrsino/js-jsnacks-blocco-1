@@ -1,9 +1,11 @@
 body{
-    background-color: #b8b6b6;
+    background-color: #eaeaea !important;
 }
 .wrapper{
     margin: 200px auto;
     border: 1px solid gray;
     background-color: #fff;
     border-radius: 20px;
+    width: 1000px;
+    height: 500px;
 }
