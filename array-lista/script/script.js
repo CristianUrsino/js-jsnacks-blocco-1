@@ -7,6 +7,7 @@ let flag = false;
 for(i = 0; i < frutta.length && !flag; i++){
     if(cocomero === frutta[i]){
         flag = true;
-        console.log('il ' + cocomero + " è presente nello spazio " + (i + 1));
+        console.log('Trovato! Devo solo preparare il cocktail.');
     }
 }
+if(!flag) console.log('Oh no, devo uscire a comprare il cocomero!');
